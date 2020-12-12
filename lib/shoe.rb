@@ -1,6 +1,6 @@
 # Make your shoe class here!class Book
   
-class Show
+class Shoe
   
   def initialize(brand)
     
