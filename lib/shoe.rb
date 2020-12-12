@@ -7,7 +7,7 @@ class Show
     @brand = brand
     
   end
-  attr_accessor :brand, :author, :page_count, :genre
+  attr_accessor :brand, :color, :size, :material, condition
   
    def turn_page
     puts "Flipping the page...wow, you read fast!"
