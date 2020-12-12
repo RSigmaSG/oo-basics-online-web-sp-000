@@ -9,8 +9,8 @@ class Shoe
   end
   attr_accessor :brand, :color, :size, :material, :condition
   
-   def turn_page
-    puts "Flipping the page...wow, you read fast!"
+   def cobble
+    puts "Shoe has been repaired"
   end
   
 end
