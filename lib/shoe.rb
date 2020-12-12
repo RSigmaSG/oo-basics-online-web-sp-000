@@ -2,12 +2,12 @@
   
 class Show
   
-  def initialize(title)
+  def initialize(brand)
     
-    @title = title
+    @brand = brand
     
   end
-  attr_accessor :title, :author, :page_count, :genre
+  attr_accessor :brand, :author, :page_count, :genre
   
    def turn_page
     puts "Flipping the page...wow, you read fast!"
